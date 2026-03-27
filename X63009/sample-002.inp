@@ -1,0 +1,41 @@
+it-= 0
+push_back os
+pop_front 
+it-= 0
+push_back pe
+it+= 0
+push_front is
+pop_back 
+push_back di
+push_back v
+pop_front 
+it-= 1
+push_front vu
+push_front tq
+push_back v
+*it
+it-= 1
+pop_front 
+pop_back 
+*it
+it+= -1
+push_back yr
+pop_back 
+*it
+it+= 1
+*it
+it+= 2
+push_back yf
+push_back sj
+push_front h
+push_front pd
+pop_back 
+push_back k
+it+= -2
+push_back cg
+push_front pb
+pop_front 
+push_front q
+pop_front 
+it-= 5
+*it

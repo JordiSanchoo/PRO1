@@ -1,0 +1,34 @@
+swap2and3
+push a
+top 
+swap2and3
+push b
+swap2and3
+push c
+push d
+swap2and3
+top
+pop
+top
+swap2and3
+top
+push e
+swap2and3
+top
+pop 
+top
+pop 
+top
+swap2and3
+top
+push f
+top
+swap2and3
+top
+pop 
+pop 
+top 
+pop 
+push g
+swap2and3
+top

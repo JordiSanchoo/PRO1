@@ -1,0 +1,38 @@
+size
+moveSecondToLast
+size
+push a
+front 
+size
+moveSecondToLast
+push b
+front 
+size
+moveSecondToLast
+push c
+front 
+size
+moveSecondToLast
+pop
+front
+size
+moveSecondToLast
+push d
+push e
+push f
+size
+moveSecondToLast
+moveSecondToLast
+moveSecondToLast
+size
+front
+pop
+front
+pop 
+front
+pop
+front
+pop
+front
+pop
+size

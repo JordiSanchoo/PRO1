@@ -1,0 +1,61 @@
+push_front e
+it-= 1
+it-= 0
+push_back g
+it-= -2
+it+= -2
+*it
+push_front s
+pop_front 
+push_front di
+pop_back 
+pop_front 
+push_front il
+it-= -1
+it-= 1
+push_front tq
+it+= -2
+pop_back 
+it+= 1
+pop_front 
+it+= 1
+it+= -1
+it-= -1
+it-= 0
+it+= -1
+it+= 0
+*it
+push_front ly
+push_back j
+*it
+pop_back 
+it+= -1
+pop_back 
+push_back pd
+pop_back 
+it+= 0
+push_front j
+it-= 1
+push_back p
+it-= -1
+push_front k
+pop_front 
+pop_front 
+push_front f
+it+= 1
+it+= -1
+*it
+pop_front 
+push_back ft
+*it
+push_back w
+it-= -1
+*it
+*it
+*it
+pop_front 
+pop_back 
+*it
+it+= 1
+pop_front 
+*it

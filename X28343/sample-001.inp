@@ -1,0 +1,61 @@
+push ab
+push b
+push a
+push a
+size
+pop 
+push aa
+pop 
+push bc
+reverse
+size
+top 
+push ca
+push aa
+push c
+pop 
+push b
+push c
+push cb
+size
+push b
+reverse
+push ba
+size
+pop 
+push ac
+reverse
+top 
+pop 
+pop 
+reverse
+reverse
+push cb
+push cb
+size
+push ba
+push d
+top 
+push a
+push b
+reverse
+push d
+reverse
+reverse
+pop 
+push c
+size
+push a
+pop 
+top 
+push c
+push ca
+push cc
+size
+size
+push db
+push b
+push cc
+push ca
+push d
+top

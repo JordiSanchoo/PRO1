@@ -1,0 +1,12 @@
+push_back rb
+push_back b
+push_back ar
+push_back k
+pop_front 
+pop_front 
+push_back dq
+it--
+it--
+*it
+moveToEnd
+*it

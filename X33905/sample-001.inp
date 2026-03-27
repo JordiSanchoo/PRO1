@@ -1,0 +1,50 @@
+string
+cout << l
+cout << sum
+push_back a
+push_back b
+push_back c
+cout << l
+cout << sum
+it = begin
+insert it dd
+--it
+push_front ee
+push_front f
+cout << l
+cout << sum
+*it = g
+cout << l
+cout << sum
+it++
+it = erase it
+cout << l
+cout << sum
+it = end
+cout << l
+cout << sum
+--it
+it = erase it
+push_back hhh
+cout << l
+cout << sum
+it--
+--it
+*it = iiiii
+cout << l
+cout << sum
+pop_back
+push_back j
+cout << l
+cout << sum
+insert it kkkk
+cout << l
+cout << sum
+++it
+pop_front
+it = erase it
+cout << l
+cout << sum
+insert it mmm
+cout << l
+cout << sum

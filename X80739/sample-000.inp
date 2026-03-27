@@ -1,0 +1,21 @@
+push 4
+top
+push 5
+push 4
+top
+print
+pop
+top
+top
+push 1
+mul 10
+push 0
+top
+pop
+pop
+mul 9
+print
+top
+push 2
+mul 7
+print

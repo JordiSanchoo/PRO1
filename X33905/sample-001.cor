@@ -1,0 +1,24 @@
+()
+
+a b c ()
+abc
+f ee (dd) a b c
+feeddabc
+f ee (g) a b c
+feegabc
+f ee g (b) c
+feegbc
+f ee g b c ()
+feegbc
+f ee g b hhh ()
+feegbhhh
+f ee g (iiiii) hhh
+feegiiiiihhh
+f ee g (iiiii) j
+feegiiiiij
+f ee g kkkk (iiiii) j
+feegkkkkiiiiij
+ee g kkkk iiiii ()
+eegkkkkiiiii
+ee g kkkk iiiii mmm ()
+eegkkkkiiiiimmm

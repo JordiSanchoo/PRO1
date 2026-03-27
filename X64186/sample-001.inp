@@ -1,0 +1,55 @@
+push_front nk
+push_back gn
+push_front x
+push_back o
+it1--
+pop_front
+push_back ir
+push_front wp
+*it1
+pop_back
+push_back t
+it1++
+push_back ap
+push_front v
+pop_front
+push_back v
+it1++
+pop_front
+pop_front
+it2--
+it1--
+it1--
+swapPositionsOfItems
+it2--
+push_back p
+*it2
+push_back p
+swapPositionsOfItems
+it1++
+push_back d
+*it2
+pop_front
+it2--
+*it1
+push_back iz
+swapPositionsOfItems
+*it1
+it1++
+pop_back
+push_front q
+*it2
+pop_back
+it2++
+swapPositionsOfItems
+push_front l
+*it1
+push_front b
+push_front g
+push_back yo
+pop_front
+it1++
+push_back y
+it2--
+push_front g
+*it1

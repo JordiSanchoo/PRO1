@@ -1,0 +1,45 @@
+int
+push_back 8
+pop_back
+push_front 10
+push_back 1
+push_back 7
+it = begin
+pop_back
+cout << sum
+push_front 10
+push_back 7
+*it = 3
+pop_back
+cout << sum
+insert it 8
+cout << sum
+cout << sum
+push_front 4
+cout << sum
+insert it 7
+insert it 1
+cout << *it
+pop_back
+cout << *it
+insert it 7
+push_back 8
+it++
+insert it 8
+insert it 4
+push_back 9
+insert it 9
+push_front 2
+push_back 3
+cout << *it
+*it = 9
+*it = 3
+*it = 7
+cout << *it
+cout << *it
+cout << *it
+it = erase it
+cout << *it
+push_front 8
+cout << sum
+cout << l

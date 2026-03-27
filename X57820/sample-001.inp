@@ -1,0 +1,49 @@
+push l
+push bm
+pop 
+front
+size
+moveSecondToLast
+moveSecondToLast
+push ar
+push w
+push y
+push d
+moveSecondToLast
+push c
+push rj
+push w
+moveSecondToLast
+push sj
+push ld
+push f
+push r
+push yn
+pop 
+front
+size
+pop 
+front
+size
+moveSecondToLast
+push g
+moveSecondToLast
+moveSecondToLast
+moveSecondToLast
+pop 
+front
+size
+push r
+push ln
+pop 
+front
+size
+push p
+push wk
+push p
+pop 
+front
+size
+pop 
+front
+size

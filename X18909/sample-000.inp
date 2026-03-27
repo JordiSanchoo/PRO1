@@ -1,0 +1,29 @@
+reverse
+insert a
+reverse
+it--
+*it
+push_back b
+reverse
+it--
+*it
+it++
+reverse
+*it
+push_front c
+reverse
+it++
+*it
+push_back d
+reverse
+it--
+*it
+push_back e
+reverse
+*it
+it--
+*it
+it--
+reverse
+it--
+*it

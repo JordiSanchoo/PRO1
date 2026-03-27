@@ -1,0 +1,50 @@
+int
+cout << l
+cout << sum
+push_back 1
+push_back 2
+push_back 3
+cout << l
+cout << sum
+it = begin
+insert it -1
+--it
+push_front 4
+push_front -2
+cout << l
+cout << sum
+*it = 5
+cout << l
+cout << sum
+it++
+it = erase it
+cout << l
+cout << sum
+it = end
+cout << l
+cout << sum
+--it
+it = erase it
+push_back 6
+cout << l
+cout << sum
+it--
+--it
+*it = 0
+cout << l
+cout << sum
+pop_back
+push_back 7
+cout << l
+cout << sum
+insert it 8
+cout << l
+cout << sum
+++it
+pop_front
+it = erase it
+cout << l
+cout << sum
+insert it 9
+cout << l
+cout << sum

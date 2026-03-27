@@ -1,0 +1,36 @@
+size
+reverse
+size
+push a
+top
+reverse
+top
+size
+push b
+top
+size
+reverse
+top
+size
+pop
+top
+push c
+top
+push d
+top
+reverse
+top
+push e
+top
+size
+reverse
+top
+size
+pop
+top
+pop
+top
+pop
+top
+pop
+size

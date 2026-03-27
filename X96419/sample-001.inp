@@ -1,0 +1,31 @@
+push wp
+push h
+push q
+push a
+top 
+swap2and3 
+top 
+push k
+pop 
+pop 
+swap2and3 
+push y
+pop 
+pop 
+top 
+pop 
+push x
+swap2and3 
+push r
+push q
+push l
+push g
+pop 
+pop 
+top 
+push k
+top 
+pop 
+push dv
+swap2and3 
+top

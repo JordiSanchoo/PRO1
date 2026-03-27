@@ -1,0 +1,34 @@
+it+= 0
+it-= 0
+push_front a
+it-= 1
+*it
+it+= 1
+it-= 1
+*it
+it-= -1
+it+= -1
+*it
+push_back b
+it+= 1
+*it
+it+= -1
+*it
+it-= -1
+*it
+it-= 1
+*it
+push_front c
+it-= 1
+*it
+it+= 3
+it-= 1
+*it
+it+= -2
+*it
+push_front d
+push_back e
+it-= -3
+*it
+it+= -4
+*it

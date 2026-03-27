@@ -1,0 +1,43 @@
+push_front a
+it1--
+push_back b
+it2--
+*it1
+*it2
+swapPositionsOfItems
+*it1
+*it2
+it1--
+*it1
+*it2
+swapPositionsOfItems
+*it1
+*it2
+push_back c
+it2++
+*it2
+it2++
+*it1
+*it2
+swapPositionsOfItems
+*it1
+*it2
+swapPositionsOfItems
+*it1
+*it2
+it2--
+it2--
+it1++
+it1++
+*it1
+*it2
+swapPositionsOfItems
+*it1
+*it2
+it1++
+*it1
+it2--
+*it2
+swapPositionsOfItems
+*it1
+*it2
